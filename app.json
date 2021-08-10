@@ -8,4 +8,16 @@
             "plan": "heroku-postgresql"
         }
     ]
+    "Api_id":{
+       "description":"Api from my.telegram.org"
+       "value":"Fill this"
+     },
+     "Api_hash":{
+         "description":"Api hash goes here"
+         "value":"fill this"
+         },
+     "Bot Token":{
+         "description":"token from bot father"
+         "value":"token"
+         }
 }
