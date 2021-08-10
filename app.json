@@ -7,7 +7,7 @@
         {
             "plan": "heroku-postgresql"
         }
-    ]
+    ],
     "Api_id":{
        "description":"Api from my.telegram.org",
        "value":"Fill this"
